@@ -1,4 +1,4 @@
-# C++ Module 00 – Getting Started with C++
+# C++ Module 00
 
 This introductory module focuses on the **basics of C++ syntax and structure**. It’s designed to ease your transition from C to C++, introducing essential object-oriented programming concepts like **classes, member functions, constructors, static members**, and more.
 
